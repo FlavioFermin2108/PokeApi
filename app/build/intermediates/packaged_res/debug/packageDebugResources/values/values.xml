@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="color">#FF4081</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">PokeApi</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="gcm_defaultSenderId" translatable="false">920946049169</string>
+    <string name="google_api_key" translatable="false">AIzaSyB4HJOuIyUTPQmx_n5VpoeniO4MdqNDytQ</string>
+    <string name="google_app_id" translatable="false">1:920946049169:android:c88e2492b4165bbafe7f30</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB4HJOuIyUTPQmx_n5VpoeniO4MdqNDytQ</string>
+    <string name="google_storage_bucket" translatable="false">loginfirebase-a9a22.firebasestorage.app</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="pokemon_image_description">Imagen del Pokémon</string>
+    <string name="project_id" translatable="false">loginfirebase-a9a22</string>
+    <string name="registrarse">Registrarse</string>
+    <style name="Base.Theme.PokeApi" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.PokeApi" parent="Base.Theme.PokeApi"/>
+</resources>

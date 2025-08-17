@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="pokemon_image_description">Imagen del Pokémon</string>
+
+</resources>
